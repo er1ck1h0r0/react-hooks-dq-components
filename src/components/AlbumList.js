@@ -25,6 +25,7 @@ function AlbumList() {
         image="https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Album_Cover-Aloha_K.K..png/revision/latest?cb=20200502231742"
         genre="Dogs"
       />
+     
     </section>
   );
 }
